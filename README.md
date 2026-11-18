@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-ff6a3d?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+  <a href="https://charlesknight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff6a3d?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/cbknight/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:charlesknight826@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 </p>
