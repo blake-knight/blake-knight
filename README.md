@@ -19,7 +19,7 @@
 - 🧠 **11+ years** shipping AI automation, LLM integrations, and full-stack products.
 - 🏗️ Previously **Technical Architect at GS&amp;F**, leading teams of 4–8 developers on React and GraphQL platforms for healthcare, IoT, and retail clients.
 - 🧑‍🏫 Mentored **7 engineers** and led design reviews for AI and MCP features.
-- 📍 Horn Lake, MS · working remotely
+- 📍 Baldwyn, MS · working remotely
 
 ### Highlights
 
